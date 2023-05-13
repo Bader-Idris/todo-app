@@ -308,6 +308,9 @@ body.dark .tasks .task.done {
   cursor: pointer;
   z-index: 1;
   user-select: none;
+  position: absolute;
+  right: -5px;
+  padding: 15px;
 }
 
 aside {
