@@ -39,8 +39,8 @@ Users are able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://bader-idris.github.io/todo-app/)
+- Solution URL: [waiting](https://your-solution-url.com)
+- Live Site URL: [check it out](https://bader-idris.github.io/todo-app/)
 
 ## My process
 
@@ -60,7 +60,7 @@ Tended to Convert it into an Android Application
 
 ### Useful resources
 
-- [Example resource 1](https://elzero.org) - This helped me for connecting localStorage functions. I really liked this Website, and I advise Arabian Developers using it and learning from its Teacher *Osama Mohamed* forward.
+- [main school: Elzero Web School](https://elzero.org) - This helped me for connecting localStorage functions. I really liked this Website, and I advise Arabian Developers using it and learning from its Teacher *Osama Mohamed* forward.
 ## Author
 
 - Contact me at Telegram - [Bader Idris](https://t.me/BaderIdrees)
