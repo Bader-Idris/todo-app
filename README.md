@@ -38,7 +38,7 @@ Users are able to:
 
 ### Links
 
-- Solution URL: [check solution in front-end mentor site]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/todo-app-with-localstorage-F2xrnnhNsC))
+- Solution URL: [check solution in front-end mentor site](https://www.frontendmentor.io/solutions/todo-app-with-localstorage-F2xrnnhNsC)
 - Live Site URL: [check it out](https://bader-idris.github.io/todo-app/)
 
 ## My process
