@@ -1,5 +1,7 @@
 # Frontend Mentor - Todo app solution
 
+## Live version [HERE:](https://bader-idris.github.io/todo-app/)
+
 This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW).
 
 ## Table of contents
